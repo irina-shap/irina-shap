@@ -3,7 +3,7 @@
 
 - :mortar_board: Закончила курсы профессиональной переподготовки в [Яндекс.Практикум](https://practicum.yandex.ru)
 - :notebook: Примеры выполненных работ можно посмотреть [тут](https://github.com/irina-shap/Data-analyst-portfolio)
-- :mag_right: Обладаю навыками работы в Python, PostgreSQL, Tableau, проведение А/В - тестов
+- :mag_right: Обладаю навыками работы в Python, PostgreSQL, Tableau, проведения А/В - тестов
 - :calling: Меня можно найти в телеграм @llaloba
 
 <!--
