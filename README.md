@@ -1,11 +1,17 @@
-### Hi there 👋
+### Привет! 👋
+#### Меня зовут Ирина, я начинаю свой путь в сфере аналитики данных
+
+- :mortar_board: Закончила курсы профессиональной переподготовки в [Яндекс.Практикум](https://practicum.yandex.ru)
+- :notebook: Примеры выполненных работ можно посмотреть [тут](https://github.com/irina-shap/Data-analyst-portfolio)
+- :mag_right: Обладаю навыками работы в Python, PostgreSQL, Tableau, проведение А/В - тестов
+- :calling: Меня можно найти в телеграм @llaloba
 
 <!--
 **irina-shap/irina-shap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- :woman:Я начинающий специалист в сфере аналитики данных
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
